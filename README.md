@@ -3,4 +3,7 @@ Bienvenid@ al repositorio de JavaScript de la asignatura de Procesos de Ingenier
 
 git add --all  
 git commit -m *primera version*  
-git push
+git push  
+  
+Versión 0.2  
+-Añadidas carpetas para diferenciar los distintos ejercicios.
