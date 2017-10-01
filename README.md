@@ -1,4 +1,4 @@
-# PracticasJavaScript
+# Practicas de Procesos de Ingeniería Software  
 Bienvenid@ al repositorio de JavaScript de la asignatura de Procesos de Ingenieria del Software 17-18.  
 
 `git add --all`  
